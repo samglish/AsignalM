@@ -35,3 +35,12 @@ print(df)
 ```python
 file_name = 'SAVE.html'
 ```
+```python
+df=pd.DataFrame(df)
+df.to_html(file_name)
+print('enregistré')
+```
+
+```
+enregistré
+```

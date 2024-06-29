@@ -12,4 +12,4 @@ import colorama
 df=pd.read_excel('gps-baoliwolbon.xlsx')
 df
 ```
-
+<img src="data1.png" width="70%">

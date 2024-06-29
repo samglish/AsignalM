@@ -7,3 +7,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import colorama 
 ```
+### read excel file
+```python
+df=pd.read_excel('gps-baoliwolbon.xlsx')
+df
+```
+

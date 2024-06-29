@@ -29,3 +29,4 @@ df.loc[(df['DBm'] <= -105) & (df['DBm'] >= -115), 'Statut'] = 'Mauvais'
 df.loc[(df['DBm'] <= -115), 'Statut'] = 'Très mauvais'
 print(df)
 ```
+<img src="data3.png" width="70%">

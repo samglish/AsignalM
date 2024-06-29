@@ -17,7 +17,7 @@ df
 ```python
 hist=df.hist(column='DBm',bins=20)
 ```
-<img src="data2.png" width="40%">
+<img src="data2.png" width="50%">
 
 ### IF ELSE WITH PANDAS
 ```python

@@ -30,3 +30,8 @@ df.loc[(df['DBm'] <= -115), 'Statut'] = 'Très mauvais'
 print(df)
 ```
 <img src="data3.png" width="70%">
+
+### Save
+```python
+file_name = 'SAVE.html'
+```

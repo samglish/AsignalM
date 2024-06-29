@@ -13,3 +13,8 @@ df=pd.read_excel('gps-baoliwolbon.xlsx')
 df
 ```
 <img src="data1.png" width="70%">
+
+```python
+hist=df.hist(column='DBm',bins=20)
+```
+<img src="data2.png" width="70%">
